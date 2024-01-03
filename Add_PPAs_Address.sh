@@ -7,6 +7,9 @@ sudo add-apt-repository --yes "deb http://dl.google.com/linux/talkplugin/deb/ st
 sudo add-apt-repository --yes "deb http://download.virtualbox.org/virtualbox/debian precise contrib"
 sudo add-apt-repository --yes "deb http://download.webmin.com/download/repository sarge contrib"
 sudo add-apt-repository --yes "deb http://repo.ajenti.org/ng/debian main main ubuntu"
+sudo add-apt-repository --yes ppa:coolcomputers/all
+sudo add-apt-repository --yes ppa:cappelikan/ppa
+sudo add-apt-repository --yes ppa:isc/bind
 sudo add-apt-repository --yes ppa:0k53d-karl-f830m/postgis
 sudo add-apt-repository --yes ppa:0k53d-karl-f830m/strongswan
 sudo add-apt-repository --yes ppa:0mok/chrony
